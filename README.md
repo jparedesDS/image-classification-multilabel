@@ -4,11 +4,11 @@
 - 🥈2º Position In Public Ladderboard
 - 🥉3º Position In Private Ladderboard
 
-#### Keras Conv - Identification characters - Futurama Kaggle Competition in frames - Image Classification
+#### Keras Conv - Identification characters - Futurama Kaggle Competition in frames - Image Classification ( MCRMSE: 0.12527 )
 RUN VERSION
 - Link: https://www.kaggle.com/code/joseparedesc/keras-conv-identification-characters-futurama/notebook?scriptVersionId=101579385
 
-#### ResNet152 pretrained with Imaginet_v2 - Identification characters in frames - Futurama Kaggle Competition - Image Classification
+#### ResNet152 pretrained with Imaginet_v2 - Identification characters in frames - Futurama Kaggle Competition - Image Classification ( MCRMSE: 0.09149 )
 RUN VERSION
 - Link: https://www.kaggle.com/code/joseparedesc/resnet152-imaginet-image-vision-classification/notebook?scriptVersionId=102675904
 
