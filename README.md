@@ -12,10 +12,10 @@
 ( MCRMSE: 0.09149 )
 - Link: https://www.kaggle.com/code/joseparedesc/resnet152-imaginet-image-vision-classification/notebook?scriptVersionId=102675904
 
-Ladderboard Public Score [TOP 🥈]: https://www.kaggle.com/competitions/comp-mediavida-2-futurama/leaderboard?tab=public
 
-Ladderboard Private Score [TOP 🥉]: https://www.kaggle.com/competitions/comp-mediavida-2-futurama/leaderboard#
 
-Kaggle Competition : https://www.kaggle.com/competitions/comp-mediavida-2-futurama/overview
-
-Community: https://www.mediavida.com/foro/dev/segunda-competicion-machine-learning-futurama-689127
+#### MORE INFO:
+- Ladderboard Public Score [TOP 🥈]: https://www.kaggle.com/competitions/comp-mediavida-2-futurama/leaderboard?tab=public
+- Ladderboard Private Score [TOP 🥉]: https://www.kaggle.com/competitions/comp-mediavida-2-futurama/leaderboard#
+- Kaggle Competition : https://www.kaggle.com/competitions/comp-mediavida-2-futurama/overview
+- Community: https://www.mediavida.com/foro/dev/segunda-competicion-machine-learning-futurama-689127
